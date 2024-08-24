@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>System Magpixelia</title>
+    <link rel="icon" href="https://www.bing.com/th?id=OIP.Da4O8rqy2ROcTvwibMIfJAHaKM&w=120&h=150&c=8&rs=1&qlt=90&o=6&cb=13&pid=3.1&rm=2" type="image/x-icon">
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            margin-top: 20%;
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Hi! welcome to System.Magpixelia, system.magpixelia@gmail.com .</h1>
+    <audio autoplay loop>
+        <source src="youareanidiot.mp3" type="audio/mpeg">
+        Tu navegador no soporta la reproducción de audio.
+    </audio>
+</body>
+</html>
